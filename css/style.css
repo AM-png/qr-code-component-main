@@ -19,7 +19,6 @@ body {
     background: whitesmoke;
     max-width: 20rem;
     padding: 0.5rem;
-    border: 1px solid transparent;
     border-radius: 1rem;
     box-shadow: 0 0 10px 1px grey;
     text-align: center;
